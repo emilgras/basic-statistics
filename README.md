@@ -30,7 +30,7 @@ A sample includes a subset of the population.
 
 Mean also known as average is the sum of all numbers divided by the count of numbers.
 
-![Text](https://github.com/emilgras/basic-statistics/tree/master/resources/mean1.png)
+![](https://github.com/emilgras/basic-statistics/tree/master/resources/mean1.png)
 
 </br>
 </br>
