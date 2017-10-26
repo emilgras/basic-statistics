@@ -22,11 +22,15 @@ A population includes ALL elements from a dataset.
 
 A sample includes a subset of the population.
 </br>
+</br>
+</br>
 
 
 ## Mean
 
 Mean also known as average is the sum of all numbers divided by the count of numbers.
+</br>
+</br>
 </br>
 
 
@@ -34,17 +38,23 @@ Mean also known as average is the sum of all numbers divided by the count of num
 
 Median is the middle value in a list of numbers. To find the median your list must bw sorted. If the list contains an un-even amount of numbers the median is simply the middle number. If the length of the lidt is even then you find the median by claculating the mean or average of the 2 middle numbers.
 </br>
+</br>
+</br>
 
 
 ## Mode
 
 The mode is the value value that occurs most often. If ni number in the list is repeated, then there is no mode.
 </br>
+</br>
+</br>
 
 
 ## Range
 
 The range is simply the difference between the largest and the samllest number in a dataset.
+</br>
+</br>
 </br>
 
 
@@ -62,6 +72,8 @@ This is an example to picture variance in a simple graph.
 
 -- show example graph ---
 </br>
+</br>
+</br>
 
 
 ## Standard Deviation
@@ -71,6 +83,8 @@ Standard deviation is like an extension to the variance. To recap, variance sums
 -- show formular ---
 
 Standard deviation comes to the resque by simply taking the square root of the variance. This basically cancels out the previous step where we squared the differences, and leaves us with the average spread of each individual datapoint - the standard deviation.
+</br>
+</br>
 </br>
 
 
@@ -108,6 +122,8 @@ If x > x_hat -> - && + --> -
 So the covariance between x and y when theres is a negative relationship between x and y will be negative.
 
 In conclusion what you can derive from a covariance is whether a set of datapoints are either positively or negatively related to one another. What a covariance does NOT say is the magnitude of the relation - in other words HOW positively or negatively related are the data.
+</br>
+</br>
 </br>
 
 
