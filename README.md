@@ -11,7 +11,6 @@ __*Todo:*__
 ## Population
 
 A population includes ALL elements from a dataset.
-
 </br>
 
 ## Sample
