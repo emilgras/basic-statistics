@@ -6,11 +6,15 @@ __*Todo:*__
 
 * *Add python examples*
 </br>
+</br>
+</br>
 
 
 ## Population
 
 A population includes ALL elements from a dataset.
+</br>
+</br>
 </br>
 
 
