@@ -1,5 +1,12 @@
 # Statistics
 
+__*Todo:*__
+
+* Add formulars
+
+* Add python examples
+
+
 
 ### Population
 
