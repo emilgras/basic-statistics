@@ -13,6 +13,7 @@ __*Todo:*__
 A population includes ALL elements from a dataset.
 
 </br>
+
 ## Sample
 
 A sample includes a subset of the population.
