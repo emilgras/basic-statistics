@@ -12,6 +12,7 @@ __*Todo:*__
 
 ## Population
 
+![](https://github.com/emilgras/basic-statistics/tree/master/resources/mean1.png)
 A population includes ALL elements from a dataset.
 </br>
 </br>
