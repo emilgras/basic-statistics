@@ -29,6 +29,9 @@ A sample includes a subset of the population.
 ## Mean
 
 Mean also known as average is the sum of all numbers divided by the count of numbers.
+
+![mean1](https://github.com/gode-ting/LoanBroaker/blob/master/Resources/loanBrokerCD.png)
+
 </br>
 </br>
 </br>
