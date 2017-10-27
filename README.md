@@ -29,7 +29,7 @@ A sample includes a subset of the population.
 
 ## Mean
 
-* _**Definition**_ 
+* _**Definition**_  
    todo
 
 * _**Formular**_ 
