@@ -64,7 +64,7 @@ The range is simply the difference between the largest and the samllest number i
 
 ## Variance
 
-The variance refers to the spread of a dataset - how far apart the numbers are in relation to the mean. Also refered to as the `squared differences` - because you sum up the individual differences squared. 
+The variance refers to the spread of a dataset - how far apart the numbers are in relation to the mean. Also refered to as the `average squared differences` - because you sum up the individual differences squared. 
 
 --- show formular ---
 
