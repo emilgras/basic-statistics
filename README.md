@@ -1,30 +1,30 @@
 # Statistics  
 </br>
 
-   ### Population
-
+   ### _Population_
+   
    ![](https://github.com/emilgras/basic-statistics/tree/master/resources/mean1.png)
    A population includes ALL elements from a dataset.
 </br>
 </br>
 
 
-   ### Sample
+   ### _Sample_
 
    A sample includes a subset of the population.
 </br>
 </br>
 
 
-   ### Mean
+   ### _Mean_  
 
-* _**Definition**_  
+* **Definition**  
    todo
 
-* _**Formular**_  
+* **Formular**  
    todo
 
-* _**Python implementation**_  
+* **Python implementation**   
    ```python
 
    def mean(values):
