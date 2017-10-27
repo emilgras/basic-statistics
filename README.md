@@ -139,7 +139,7 @@
 
 * **Python implementation**   
   ```python
-	
+  
   def std_dev(variance):
    	return sqrt(variance)
 
@@ -162,7 +162,7 @@
   todo
 
 * **Python implementation**    
-  ```python
+  ```python
 	
   def covariance(args):
    	pass
@@ -213,7 +213,7 @@
   todo
 
 * **Python implementation**  
-  ```python
+  ```python
 	
   def correlation(args):
    	pass
