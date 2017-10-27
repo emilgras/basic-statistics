@@ -29,12 +29,18 @@ A sample includes a subset of the population.
 
 ## Mean
 
-```python
+* _**Formular**_
+   todo
 
-def mean(values):
+* _**Python implementation**_
+   ```python
+
+   def mean(values):
 	return sum(values) / float(len(values))
 
-```
+   ```
+
+* _**Explanation**_
 
 Mean also known as average is the sum of all numbers divided by the count of numbers.
 
