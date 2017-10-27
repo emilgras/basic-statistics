@@ -1,22 +1,22 @@
 # Statistics  
 </br>
 
-## Population
+   ### Population
 
-![](https://github.com/emilgras/basic-statistics/tree/master/resources/mean1.png)
-A population includes ALL elements from a dataset.
+   ![](https://github.com/emilgras/basic-statistics/tree/master/resources/mean1.png)
+   A population includes ALL elements from a dataset.
 </br>
 </br>
 
 
-## Sample
+   ### Sample
 
-A sample includes a subset of the population.
+   A sample includes a subset of the population.
 </br>
 </br>
 
 
-## Mean
+   ### Mean
 
 * _**Definition**_  
    todo
