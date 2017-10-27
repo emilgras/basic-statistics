@@ -162,11 +162,11 @@
   ```
    
 * **Explanation**    
-  A covariance refers to the measure of how two random values (x, y) will change together and is used to calculate the correlation between variables. For instance, in a graph if x grows will y grow as well. If that is the case then we say there is a positive corelation between x and y.
+  A covariance refers to the measure of how two random values (x, y) will change together and is used to calculate the           correlation between variables. For instance, in a graph if x grows will y grow as well. If that is the case then we say       there is a positive corelation between x and y.
 
-  Thus, you can use covariance as a measure of positive or nagtive corelation between 2 variables (x, y). If a covariance is greater than zero the relation is positive. If the covariance is less than zero the relation is negative. 
+  Thus, you can use covariance as a measure of positive or nagtive corelation between 2 variables (x, y). If a covariance is     greater than zero the relation is positive. If the covariance is less than zero the relation is negative. 
 
-  Much like variance, the covariance value itself does not say much about the data. You can't for instance compare two different covariances and conclude that because the first is a lot bigger than the other, the first has a bigger positive relation. That would be a fault. 
+  Much like variance, the covariance value itself does not say much about the data. You can't for instance compare two           different covariances and conclude that because the first is a lot bigger than the other, the first has a bigger positive     relation. That would be a fault. 
 
 
   To understand this, lets take an example
@@ -191,12 +191,11 @@
 
   So the covariance between x and y when theres is a negative relationship between x and y will be negative.
 
-  In conclusion what you can derive from a covariance is whether a set of datapoints are either positively or negatively related to one another. What a covariance does NOT say is the magnitude of the relation - in other words HOW positively or negatively related are the data.
+  In conclusion what you can derive from a covariance is whether a set of datapoints are either positively or negatively         related to one another. What a covariance does NOT say is the magnitude of the relation - in other words HOW positively or     negatively related are the data.
 </br>
 
 
-
-### Correlation
+### Correlation  
 
 * **Definition**    
   todo
