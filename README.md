@@ -29,6 +29,9 @@ A sample includes a subset of the population.
 
 ## Mean
 
+* _**Definition**_
+   todo
+
 * _**Formular**_
    todo
 
@@ -44,8 +47,7 @@ A sample includes a subset of the population.
 
    Mean also known as average is the sum of all numbers divided by the count of numbers.
 
-![](https://github.com/emilgras/basic-statistics/tree/master/resources/mean1.png)
-
+   ![](https://github.com/emilgras/basic-statistics/tree/master/resources/mean1.png)
 </br>
 </br>
 </br>
