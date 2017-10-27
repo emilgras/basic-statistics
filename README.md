@@ -154,12 +154,6 @@
   todo
 
 * **Python implementation**    
-  ```python
-	
-  def covariance(args):
-   	pass
-  
-  ```
    
 * **Explanation**    
   A covariance refers to the measure of how two random values (x, y) will change together and is used to calculate the correlation between variables. For instance, in a graph if x grows will y grow as well. If that is the case then we say there is a positive corelation between x and y.
