@@ -35,21 +35,21 @@
 </br>
 
 
-## Median
+   ### _Median_
 
-* _**Definition**_  
-   todo
+* **Definition**    
+  todo
 
-* _**Formular**_  
-   todo
+* **Formular**  
+  todo
 
-* _**Python implementation**_  
-   ```python
+* **Python implementation**    
+  ```python
 
-   def median(values):
+  def median(values):
 	pass
-
-   ```
+	
+  ```
    
 * _**Explanation**_  
 Median is the middle value in a list of numbers. To find the median your list must bw sorted. If the list contains an un-even amount of numbers the median is simply the middle number. If the length of the lidt is even then you find the median by claculating the mean or average of the 2 middle numbers.
