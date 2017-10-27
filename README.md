@@ -200,8 +200,8 @@
 * **Python implementation**  
   ```python
 
-  def mean(values):
-	return sum(values) / float(len(values))
+  def correlation(args):
+	pass
 
   ```
    
