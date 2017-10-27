@@ -157,10 +157,10 @@
   ```python
 	
   def covariance(args):
-   	pass
-	
+   	pass
+  
   ```
-   
+   
 * **Explanation**    
   A covariance refers to the measure of how two random values (x, y) will change together and is used to calculate the correlation between variables. For instance, in a graph if x grows will y grow as well. If that is the case then we say there is a positive corelation between x and y.
 
@@ -209,7 +209,7 @@
   def correlation(args):
    	pass
 
-  ```
-   
+  ```
+   
 * **Explanation**    
   Like covariance, correlation refers to the measure of how two random values (x, y) will change together and is used to calculate the correlation between variables. If corrlealtion describes IF there is a positive or negatice relation, then correlation describes the SIZE of the realtion (the magnitude of the realtion). So the main difference between covariance and corelation is that a correlation is nomalized (scaled down) to a range bewtween -1 and +1, where -1 means 100% negtaive realtion and +1 one means a 100% positive relation. Zero indicates NO relation between the values x and y in a dataset.
