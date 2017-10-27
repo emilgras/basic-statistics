@@ -6,14 +6,12 @@
 * **Definition**  
   todo
 </br>
-</br>
 
 
    ### _Sample_
    
 * **Definition**  
   todo
-</br>
 </br>
 
 
@@ -75,7 +73,6 @@
 * **Explanation**  
   The mode is the value value that occurs most often. If ni number in the list is repeated, then there is no mode.
 </br>
-</br>
 
 
 ### Range
@@ -96,7 +93,6 @@
    
 * **Explanation**  
   The range is simply the difference between the largest and the samllest number in a dataset.
-</br>
 </br>
 
 
@@ -125,7 +121,6 @@
 
   This is an example to picture variance in a simple graph.
 </br>
-</br>
 
 
 ### Standard Deviation
@@ -149,8 +144,6 @@
 
   Standard deviation comes to the resque by simply taking the square root of the variance. This basically cancels out the previous step where we squared the differences, and leaves us with the average spread of each individual datapoint - the standard deviation.
 </br>
-</br>
-
 
 ### Covariance
 
@@ -199,7 +192,6 @@
   So the covariance between x and y when theres is a negative relationship between x and y will be negative.
 
   In conclusion what you can derive from a covariance is whether a set of datapoints are either positively or negatively related to one another. What a covariance does NOT say is the magnitude of the relation - in other words HOW positively or negatively related are the data.
-</br>
 </br>
 
 
