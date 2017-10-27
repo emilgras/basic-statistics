@@ -32,7 +32,7 @@ A sample includes a subset of the population.
 * _**Definition**_  
    todo
 
-* _**Formular**_ 
+* _**Formular**_  
    todo
 
 * _**Python implementation**_ 
