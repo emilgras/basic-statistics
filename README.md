@@ -35,18 +35,13 @@ A sample includes a subset of the population.
 * _**Formular**_  
    todo
 
-* _**Python implementation**_ 
+* _**Python implementation**_  
    ```python
 
    def mean(values):
 	return sum(values) / float(len(values))
 
    ```
-
-* _**Explanation**_ 
-   Mean also known as average is the sum of all numbers divided by the count of numbers.
-
-   ![](https://github.com/emilgras/basic-statistics/tree/master/resources/mean1.png)
 </br>
 </br>
 </br>
@@ -54,6 +49,21 @@ A sample includes a subset of the population.
 
 ## Median
 
+* _**Definition**_  
+   todo
+
+* _**Formular**_  
+   todo
+
+* _**Python implementation**_  
+   ```python
+
+   def median(values):
+	pass
+
+   ```
+   
+* _**Explanation**_  
 Median is the middle value in a list of numbers. To find the median your list must bw sorted. If the list contains an un-even amount of numbers the median is simply the middle number. If the length of the lidt is even then you find the median by claculating the mean or average of the 2 middle numbers.
 </br>
 </br>
@@ -62,6 +72,21 @@ Median is the middle value in a list of numbers. To find the median your list mu
 
 ## Mode
 
+* _**Definition**_  
+   todo
+
+* _**Formular**_  
+   todo
+
+* _**Python implementation**_  
+   ```python
+
+   def mode(values):
+	pass
+
+   ```
+ 
+* _**Explanation**_  
 The mode is the value value that occurs most often. If ni number in the list is repeated, then there is no mode.
 </br>
 </br>
@@ -70,6 +95,21 @@ The mode is the value value that occurs most often. If ni number in the list is 
 
 ## Range
 
+* _**Definition**_  
+   todo
+
+* _**Formular**_  
+   todo
+
+* _**Python implementation**_  
+   ```python
+
+   def median(values):
+	pass
+
+   ```
+   
+* _**Explanation**_  
 The range is simply the difference between the largest and the samllest number in a dataset.
 </br>
 </br>
@@ -78,13 +118,21 @@ The range is simply the difference between the largest and the samllest number i
 
 ## Variance
 
-``python
+* _**Definition**_  
+   todo
 
-def variance(values, mean):
+* _**Formular**_  
+   todo
+
+* _**Python implementation**_  
+   ```python
+
+   def variance(values, mean):
 	return sum([(x-mean)**2 for x in values]) / len(values)
 
-```
-
+   ```
+   
+* _**Explanation**_  
 The variance refers to the spread of a dataset - how far apart the numbers are in relation to the mean. Also refered to as the `average squared differences` - because you sum up the individual differences squared. 
 
 --- show formular ---
@@ -103,16 +151,22 @@ This is an example to picture variance in a simple graph.
 
 ## Standard Deviation
 
-``python
+* _**Definition**_  
+   todo
 
-def std_dev(variance):
-    return sqrt(variance)
+* _**Formular**_  
+   todo
 
-```
+* _**Python implementation**_  
+   ```python
+	
+   def std_dev(variance):
+   	return sqrt(variance)
 
+   ```
+   
+* _**Explanation**_  
 Standard deviation is like an extension to the variance. To recap, variance sums up all the squared differences. But because we square all the differences to cancel out negative numbers, the final result will be in a different and bigger scale than the original numbers - meaning that it is very hard to draw meaning from the variance. 
-
--- show formular ---
 
 Standard deviation comes to the resque by simply taking the square root of the variance. This basically cancels out the previous step where we squared the differences, and leaves us with the average spread of each individual datapoint - the standard deviation.
 </br>
@@ -122,6 +176,21 @@ Standard deviation comes to the resque by simply taking the square root of the v
 
 ## Covariance
 
+* _**Definition**_  
+   todo
+
+* _**Formular**_  
+   todo
+
+* _**Python implementation**_  
+   ```python
+	
+   def covariance(args):
+   	pass
+
+   ```
+   
+* _**Explanation**_  
 A covariance refers to the measure of how two random values (x, y) will change together and is used to calculate the correlation between variables. For instance, in a graph if x grows will y grow as well. If that is the case then we say there is a positive corelation between x and y.
 
 -- show formular ---
@@ -161,6 +230,21 @@ In conclusion what you can derive from a covariance is whether a set of datapoin
 
 ## Correlation
 
+* _**Definition**_  
+   todo
+
+* _**Formular**_  
+   todo
+
+* _**Python implementation**_  
+   ```python
+	
+   def correlation(args):
+   	pass
+
+   ```
+   
+* _**Explanation**_  
 Like covariance, correlation refers to the measure of how two random values (x, y) will change together and is used to calculate the correlation between variables. If corrlealtion describes IF there is a positive or negatice relation, then correlation describes the SIZE of the realtion (the magnitude of the realtion). So the main difference between covariance and corelation is that a correlation is nomalized (scaled down) to a range bewtween -1 and +1, where -1 means 100% negtaive realtion and +1 one means a 100% positive relation. Zero indicates NO relation between the values x and y in a dataset.
 
 --- show formular ---
