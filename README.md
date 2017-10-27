@@ -29,6 +29,13 @@ A sample includes a subset of the population.
 
 ## Mean
 
+```python
+
+def mean(values):
+	return sum(values) / float(len(values))
+
+```
+
 Mean also known as average is the sum of all numbers divided by the count of numbers.
 
 ![](https://github.com/emilgras/basic-statistics/tree/master/resources/mean1.png)
@@ -64,6 +71,13 @@ The range is simply the difference between the largest and the samllest number i
 
 ## Variance
 
+``python
+
+def variance(values, mean):
+	return sum([(x-mean)**2 for x in values]) / len(values)
+
+```
+
 The variance refers to the spread of a dataset - how far apart the numbers are in relation to the mean. Also refered to as the `average squared differences` - because you sum up the individual differences squared. 
 
 --- show formular ---
@@ -81,6 +95,13 @@ This is an example to picture variance in a simple graph.
 
 
 ## Standard Deviation
+
+``python
+
+def std_dev(variance):
+    return sqrt(variance)
+
+```
 
 Standard deviation is like an extension to the variance. To recap, variance sums up all the squared differences. But because we square all the differences to cancel out negative numbers, the final result will be in a different and bigger scale than the original numbers - meaning that it is very hard to draw meaning from the variance. 
 
