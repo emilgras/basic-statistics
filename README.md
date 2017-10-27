@@ -2,16 +2,17 @@
 
 
    ### _Population_
-   
-   ![](https://github.com/emilgras/basic-statistics/tree/master/resources/mean1.png)
-   A population includes ALL elements from a dataset.
+     
+* **Definition**  
+  todo
 </br>
 </br>
 
 
    ### _Sample_
-
-   A sample includes a subset of the population.
+   
+* **Definition**  
+  todo
 </br>
 </br>
 
@@ -31,7 +32,6 @@
 	return sum(values) / float(len(values))
 
   ```
-</br>
 </br>
 
 
@@ -53,7 +53,6 @@
    
 * **Explanation**    
   Median is the middle value in a list of numbers. To find the median your list must bw sorted. If the list contains an un-even amount of numbers the median is simply the middle number. If the length of the lidt is even then you find the median by claculating the mean or average of the 2 middle numbers.
-</br>
 </br>
 
 
