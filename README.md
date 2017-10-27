@@ -90,7 +90,7 @@ The mode is the value value that occurs most often. If ni number in the list is 
 * _**Python implementation**_  
    ```python
 
-   def median(values):
+   def range(values):
 	pass
 
    ```
