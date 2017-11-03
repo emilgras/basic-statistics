@@ -6,25 +6,25 @@ This is a getting started guide on how to implement simple machine learning algo
 ### Overview  
 Population 
 
-Sample
+- Sample
 
-Mean 
+- Mean 
 
-Medean
+- Medean
 
-Mode
+- Mode
 
-Range
+- Range
 
-Variance
+- Variance
 
-Standard Deviation
+- Standard Deviation
 
-Mean Squared Error (MSE)
+- Mean Squared Error (MSE)
 
-Covariance
+- Covariance
 
-Correlation 
+- Correlation 
 
 
 
