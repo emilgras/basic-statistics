@@ -1,4 +1,4 @@
-# Statistics  
+# Part 1 - Basic Statistics
 
 
    ### _Population_
