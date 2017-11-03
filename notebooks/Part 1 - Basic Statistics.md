@@ -1,7 +1,7 @@
 # Part 1 - (Getting Started) Basic Statistics
 
 ### Description
-This is a getting started guide on how to implement simple machine learning algorithms from scratch using Python. 
+This is a list of basic expressions used in statistics.
 
 ### Overview  
 - Population 
@@ -25,10 +25,10 @@ This is a getting started guide on how to implement simple machine learning algo
 - Covariance
 
 - Correlation 
+</br>
 
 
-
-   ### _Population_
+### _Population_
      
 * **Definition**  
   todo
