@@ -10,7 +10,7 @@ This is a list of basic expressions used in statistics.
 
 - Mean 
 
-- Medean
+- Median
 
 - Mode
 
