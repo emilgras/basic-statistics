@@ -4,7 +4,7 @@
 This is a getting started guide on how to implement simple machine learning algorithms from scratch using Python. 
 
 ### Overview  
-Population 
+- Population 
 
 - Sample
 
