@@ -4,9 +4,7 @@
 This is a list of basic expressions used in statistics.
 
 ### Overview  
-- Population 
-
-- Sample
+- Sample vs. Population 
 
 - Mean 
 
