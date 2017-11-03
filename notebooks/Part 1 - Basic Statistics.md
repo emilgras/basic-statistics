@@ -1,7 +1,7 @@
 # Part 1 - (Getting Started) Basic Statistics
 
 ### Description
-This is a list of basic expressions used in statistics.
+This is a list of statistical terms that you need to know, in order to completely understand the algorithms that are going to implement later on.
 
 ### Overview  
 - Sample vs. Population 
