@@ -1,5 +1,32 @@
 # Part 1 - (Getting Started) Basic Statistics
 
+### Description
+This is a getting started guide on how to implement simple machine learning algorithms from scratch using Python. 
+
+### Overview  
+Population 
+
+Sample
+
+Mean 
+
+Medean
+
+Mode
+
+Range
+
+Variance
+
+Standard Deviation
+
+Mean Squared Error (MSE)
+
+Covariance
+
+Correlation 
+
+
 
    ### _Population_
      
