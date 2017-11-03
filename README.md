@@ -6,7 +6,7 @@ This is a getting started guide on how to implement simple machine learning algo
 ### Overview  
 Part 1 - [(Getting Started) Basic Statistics](https://github.com/emilgras/machine-learning-from-scratch/blob/master/notebooks/Part%201%20-%20Basic%20Statistics.md)  
 
-Part 2 - [Univariate Linear Regression](https://github.com/emilgras/machine-learning-from-scratch/blob/master/notebooks/Part%201%20-%20Basic%20Statistics.md)  
+Part 2 - [Univariate Linear Regression](https://github.com/emilgras/machine-learning-from-scratch/blob/master/notebooks/Part%202%20-%20Univariate%20Linear%20Regression.md)  
 
 Part 3 - [Multivariate Linear Regression](https://github.com/emilgras/machine-learning-from-scratch/blob/master/notebooks/Part%203%20-%20Multivariate%20Linear%20Regression.md)    
 
