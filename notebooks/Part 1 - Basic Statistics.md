@@ -22,7 +22,9 @@ This is a list of basic expressions used in statistics.
 
 - Standard Deviation
 
-- Mean Squared Error (MSE)
+- Mean Square Error (MSE)
+
+- Root Mean Square Error (RMSE)
 
 - Covariance
 
