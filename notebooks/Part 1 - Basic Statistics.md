@@ -16,6 +16,8 @@ This is a list of basic expressions used in statistics.
 
 - Range
 
+- Spread
+
 - Variance
 
 - Standard Deviation
