@@ -1,6 +1,6 @@
 # Implementing Machine Learning Algorithms In Python From Scratch
 
-#### _**Overview**_  
+### _**Overview**_  
 Part 1 - Basic Statistics  
 
 Part 2 - Univariate Linear Regression  
