@@ -6,13 +6,13 @@ This is a list of statistical terms that you need to know, in order to completel
 ### Overview  
 - Sample vs. Population 
 
-- Mean 
-
 - Median
 
 - Mode
 
 - Range
+
+- Mean 
 
 - Spread
 
